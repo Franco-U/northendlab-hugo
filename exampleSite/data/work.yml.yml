@@ -58,3 +58,7 @@ tools:
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
 title: work.yml
+menu:
+  main:
+    name: ''
+    weight: 3
