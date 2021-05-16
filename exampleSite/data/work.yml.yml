@@ -60,5 +60,5 @@ tools:
 title: work.yml
 menu:
   main:
-    name: ''
+    name: Work
     weight: 3
