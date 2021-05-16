@@ -1,6 +1,6 @@
 ---
 tools:
-- title: Dev Tools
+- title: E-commerce
   tool:
   - name: Git
     image: "/images/tools/Git.png"
