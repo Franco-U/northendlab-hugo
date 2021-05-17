@@ -1,7 +1,8 @@
 ---
 title: Contact me
-description: this is meta description
+description: short contact form
 image: images/contact.svg
+draft: true
 
 ---
-Do customers cringe or respond happily to your social media posts? Send me an email and let's see if we're a working fit.
+Do customers cringe or respond happily to your social media posts? Send an email and let's see if we're a working fit.

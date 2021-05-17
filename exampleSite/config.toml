@@ -3,9 +3,13 @@ disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
-theme = "northendlab-hugo (Themefisher)"
+theme = "Northendlab (Themefisher)"
 title = "Full-stack Digital Marketer"
 [[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
