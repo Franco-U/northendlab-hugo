@@ -13,10 +13,6 @@ weight = 1
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.main]]
-URL = "work"
-name = "Work"
-weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
