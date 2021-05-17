@@ -29,7 +29,7 @@ image = "/images/banner/illustration.svg"
 title = "Do customers cringe when they land on your website? It’s not your fault. Let's fix that."
 [params.banner2]
 bgImage = "images/banner/banner-bg.svg"
-image = "/images/contact.svg"
+image = "/images/angry.jpg"
 title = "Posting on your social media doesn't have to suck. There's a better way to do it."
 [params.cookies]
 enable = true
