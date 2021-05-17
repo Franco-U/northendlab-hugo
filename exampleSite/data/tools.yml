@@ -57,3 +57,8 @@ tools:
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
+menu:
+  main:
+    URL: tools
+    name: Tools
+    weight: 2

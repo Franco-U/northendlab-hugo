@@ -8,19 +8,15 @@ title = "Full-stack Digital Marketer"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = "2"
-[[menu.main]]
-URL = "work"
-name = "Work"
-weight = "3"
-[[menu.main]]
-URL = "tools"
-name = "Tools"
-weight = 3
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = "1"
+weight = 1
+[[menu.main]]
+URL = "work"
+name = "Work"
+weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
