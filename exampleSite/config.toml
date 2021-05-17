@@ -9,10 +9,6 @@ title = "Full-stack Digital Marketer"
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
