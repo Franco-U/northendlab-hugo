@@ -25,12 +25,12 @@ home = "Home"
 logo = "/images/logo-1.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
+body = "It’s not your fault. Let's fix that."
 image = "/images/banner/illustration.svg"
 title = "Do customers cringe when they land on your website?"
-body = "It’s not your fault. Let's fix that."
 [params.banner2]
 bgImage = "images/banner/banner-bg.svg"
-image = "/images/angry.jpg"
+image = "/images/alien-comp.svg"
 title = "Posting on your social media doesn't have to suck. There's a better way to do it."
 [params.cookies]
 enable = true
